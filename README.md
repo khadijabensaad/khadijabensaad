@@ -1,4 +1,4 @@
-# Hi, I'm Khadija Bensaad!<br><br>
+#👋 Hi, I'm Khadija Bensaad!<br><br>
 
 ### Software Engineering student @ ISI Tunis, specializing in Communication Infrastructures — blending tech skills with creativity <br><br>
 Skilled in AI/ML — computer vision (YOLOv8, U-Net++, CNNs), deep learning, and generative/diffusion models (3D Med-DDPM, Img2Img) <br><br>
