@@ -1,5 +1,17 @@
 # Hi, I'm Khadija Bensaad!<br><br>
-###  Software Engineering student @ ISI Tunis, blending tech skills with creativity <br><br> Studying full-stack dev, mobile apps, and data systems (and loving every bug 🐞)<br><br> Volunteered with [AIESEC Turkey](https://aiesec.org/) & explored digital innovation through EU Industry 4.0 <br><br> Building smart apps with Java, Python, MERN, Flutter & Android Studio 🔧<br><br> Currently diving into AI, open source, and future-proofing my skills! <br><br><br><!-- GitHub Stats (you can customize the username and theme) --><br>[![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijabensaad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+### Software Engineering student @ ISI Tunis, specializing in Communication Infrastructures — blending tech skills with creativity <br><br>
+Skilled in AI/ML — computer vision (YOLOv8, U-Net++, CNNs), deep learning, and generative/diffusion models (3D Med-DDPM, Img2Img) <br><br>
+Passionate about MedTech — applying AI to medical imaging, from brain tumor simulation on multimodal MRI to clinical decision support <br><br>
+Full-stack development across Python, Java, MERN, Flutter, and Android Studio (and loving every bug along the way 🐞) <br><br>
+Networking & infrastructure — CCNA, DevNet, network monitoring, and distributed systems <br><br>
+Growing expertise in embedded/edge AI and IoT (Raspberry Pi, Docker, real-time systems) <br><br>
+Interested in blockchain and cloud computing, and exploring digital innovation through EU Industry 4.0 <br><br>
+Volunteered with [AIESEC Turkey](https://aiesec.org/) on sustainable development & stayed active with IEEE and ARSII <br><br>
+Currently diving deeper into open source and future-proofing my skills! <br><br><br>
+
+<!-- GitHub Stats (you can customize the username and theme) --><br>
+[![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijabensaad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #  Tech Stack:
