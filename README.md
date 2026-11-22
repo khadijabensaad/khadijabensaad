@@ -228,13 +228,16 @@ A mobile application for finding products in nearby stores, with geolocation, ch
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/khadijabensaad/khadijabensaad/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+<!-- Contribution Snake -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khadijabensaad/khadijabensaad/output/github-snake-dark.svg"
+     width="100%"
+     alt="Khadija's GitHub contribution snake animation"/>
 
 </div>
 
----
-
-<div align="center">
 
 ## ♡ Women in tech. No limits, just possibilities.
 
