@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">Keep creating. Keep questioning. Keep building.</title>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2c5364"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#0f2027"/>
+    <linearGradient id="foot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5C263B"/>
+      <stop offset=".5" stop-color="#A33C61"/>
+      <stop offset="1" stop-color="#5C263B"/>
     </linearGradient>
-    <style>
-      .w { animation: move 8s ease-in-out infinite alternate; }
-      @keyframes move { from { transform: translateX(0); } to { transform: translateX(-120px); } }
-    </style>
   </defs>
-  <g class="w">
-    <path d="M0 30 Q 150 0 300 30 T 600 30 T 900 30 T 1200 30 T 1500 30 V100 H0 Z" fill="url(#g)"/>
-  </g>
+  <path d="M0 34 C180 95 300 0 470 42 S760 98 930 40 S1090 12 1200 48 L1200 150 L0 150Z" fill="url(#foot)" opacity=".95"/>
+  <path d="M0 35 C180 96 300 1 470 43 S760 99 930 41 S1090 13 1200 49" fill="none" stroke="#F5C6D6" stroke-opacity=".75" stroke-width="2"/>
+  <text x="600" y="105" text-anchor="middle" fill="#FFF7FA" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic">Keep creating. Keep questioning. Keep building. ♡</text>
 </svg>
