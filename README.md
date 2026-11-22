@@ -282,11 +282,8 @@ A mobile application for finding products in nearby stores, with geolocation, ch
 
 <div align="center">
 
-### ♡ A little reminder
 
-**I don't want to just use technology.**
 
-**I want to understand it, challenge it, and build something meaningful with it.**
 
 <br/>
 
@@ -300,6 +297,6 @@ A mobile application for finding products in nearby stores, with geolocation, ch
 
 <br/><br/>
 
-<i>Made with ♡, curiosity and a little bit of pink.</i>
+♡
 
 </div>
