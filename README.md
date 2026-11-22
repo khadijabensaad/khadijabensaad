@@ -14,7 +14,7 @@
 
 ---
 
-### 🧭 About me
+###  About me
 
 - 🎓 Final-year engineering student at **ISI Tunis** (Communication Infrastructure), Bachelor's in Computer Science
 - 🏭 Built an **AI quality inspection platform** for automotive leather during my internship at **Dräxlmaier**
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it solves | Highlights |
 |---|---|---|
