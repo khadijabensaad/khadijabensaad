@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
-  <img src="./header.svg" width="100%" alt="Khadija Bensaad — AI and Software Engineering">
-</picture>
+
 
 <br/>
 
@@ -76,19 +73,7 @@ I enjoy working where **AI, software engineering and intelligent systems** meet.
 
 ---
 
-## ✧ In the lab right now
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Currently building**
-
-- **DashLens** — a car-dashboard assistant combining computer vision and RAG.
-- **ShopNOVA** — a security lab for testing and hardening an LLM shopping assistant.
-
-</td>
-<td width="50%" valign="top">
 
 **Currently exploring**
 
@@ -263,17 +248,8 @@ A mobile application for finding products in nearby stores, with geolocation, ch
 </div>
 
 
-## ♡ Women in tech. No limits, just possibilities.
+** ♡ I don't want to just use technology. I want to understand it, challenge it and build with it.**
 
-I believe technology needs more perspectives, more curiosity and more women shaping what comes next.
-
-**I don't want to just use technology. I want to understand it, challenge it and build with it.**
-
-<br/>
-
-*“She believed she could build it — so she learned, tested, broke things, and built again.”*
-
-<br/>
 
 <a href="https://linkedin.com/in/bensaad-khadija">LET'S CONNECT</a>
 &nbsp; ✦ &nbsp;
@@ -281,6 +257,6 @@ I believe technology needs more perspectives, more curiosity and more women shap
 
 <br/><br/>
 
-<img src="./footer.svg" width="100%" alt="Thank you for visiting"/>
+
 
 </div>
