@@ -22,7 +22,7 @@
 
 <p align="center">
   <i>
-    A woman in tech, passionate about AI, creativity
+     Passionate about AI, creativity
     and building things that matter.
   </i>
 </p>
@@ -41,13 +41,12 @@
   <img src="https://img.shields.io/badge/LET'S_TALK-F27A9B?style=for-the-badge&logo=gmail&logoColor=24151B" alt="Email"/>
 </a>
 <img src="https://img.shields.io/badge/OPEN_TO-PFE_2027-D9A0A9?style=for-the-badge&logo=rocket&logoColor=24151B" alt="Open to PFE 2027"/>
-<img src="https://komarev.com/ghpvc/?username=khadijabensaad&style=for-the-badge&color=5C263B&label=VISITORS" alt="Profile views"/>
+
 
 <br/><br/>
 
 **AI & Software Engineering Student · ISI Tunis · Tunisia**
 
-*Curiosity in the code. Intention in the impact.*
 
 </div>
 
@@ -65,11 +64,6 @@ I enjoy working where **AI, software engineering and intelligent systems** meet.
 -  **Infrastructure:** networking, DevOps and the foundations behind reliable systems.
 -  **Beyond code:** AIESEC volunteer in Turkey · former ARSII General Secretary · IEEE member.
 
-<div align="center">
-
-`AI THAT MAKES SENSE` &nbsp; · &nbsp; `SOFTWARE THAT MATTERS` &nbsp; · &nbsp; `ENGINEERING WITH PURPOSE`
-
-</div>
 
 ---
 
