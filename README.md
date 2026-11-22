@@ -7,7 +7,6 @@
 
 <h2>✨ Hey there, welcome to my little corner of GitHub! ✨</h2>
 
-<i>She dreams. She builds. She innovates.</i>
 
 <br/>
 
