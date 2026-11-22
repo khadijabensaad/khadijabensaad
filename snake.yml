@@ -1,4 +1,5 @@
-name: Generate contribution snake
+
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -14,20 +15,24 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
+
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: khadijabensaad
           outputs: |
             dist/github-snake.svg?color_snake=%23F27A9B&color_dots=%23F7E8EE%2C%23E9A9BC%2C%23D97898%2C%23B84D73%2C%238F1D3F
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%23F27A9B&color_dots=%230D0B10%2C%235C263B%2C%238F1D3F%2C%23D97898%2C%23F5C6D6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish to output branch
+      - name: Publish SVG files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update contribution snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
