@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="./assets/avatar-hii.png"
+    src="./assets/AvatarKhadija.png"
     width="210"
     alt="Khadija says hii!"
   />
