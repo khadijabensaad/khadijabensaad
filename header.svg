@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      .wave1 { animation: move 9s ease-in-out infinite alternate; }
+      .wave2 { animation: move 6s ease-in-out infinite alternate-reverse; opacity: .35; }
+      .title { font: 700 52px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; animation: fade 1.6s ease-out both; }
+      .sub   { font: 500 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #9ecbff; animation: fade 1.6s ease-out .6s both; }
+      @keyframes move { from { transform: translateX(0); } to { transform: translateX(-120px); } }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <rect width="1200" height="220" fill="url(#g)"/>
+  <g class="wave2">
+    <path d="M0 170 Q 150 130 300 170 T 600 170 T 900 170 T 1200 170 T 1500 170 V220 H0 Z" fill="#9ecbff"/>
+  </g>
+  <g class="wave1">
+    <path d="M0 185 Q 150 155 300 185 T 600 185 T 900 185 T 1200 185 T 1500 185 V220 H0 Z" fill="#0d1117"/>
+  </g>
+  <text x="600" y="88" text-anchor="middle" class="title">Khadija Bensaad</text>
+  <text x="600" y="128" text-anchor="middle" class="sub">AI &amp; Software Engineering Student · ISI Tunis</text>
+</svg>
