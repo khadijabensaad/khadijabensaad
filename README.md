@@ -38,11 +38,11 @@ I'm **Khadija Bensaad**, a third-year engineering student at **ISI Tunis**, in t
 
 I enjoy working where **AI, software engineering and intelligent systems** meet. I like building things that do more than work: systems that can explain their decisions, solve real problems and earn people's trust.
 
-- 🧠 **AI & ML:** computer vision, explainable machine learning and LLM applications.
-- 🛡️ **AI security:** exploring how to test, attack and secure LLM, RAG and agent-based systems.
-- ⚙️ **Engineering:** APIs, full-stack applications, automation and deployment.
-- 🌐 **Infrastructure:** networking, DevOps and the foundations behind reliable systems.
-- 🌍 **Beyond code:** AIESEC volunteer in Turkey · former ARSII General Secretary · IEEE member.
+-  **AI & ML:** computer vision, explainable machine learning and LLM applications.
+-  **AI security:** exploring how to test, attack and secure LLM, RAG and agent-based systems.
+-  **Engineering:** APIs, full-stack applications, automation and deployment.
+-  **Infrastructure:** networking, DevOps and the foundations behind reliable systems.
+-  **Beyond code:** AIESEC volunteer in Turkey · former ARSII General Secretary · IEEE member.
 
 <div align="center">
 
@@ -101,7 +101,7 @@ A simulated shopping assistant used as a safe lab to investigate prompt injectio
 </td>
 <td width="50%" valign="top">
 
-### 🏭 Leather AI Inspector
+###  Leather AI Inspector
 **Computer Vision · Explainable AI**
 
 An AI-assisted leather quality inspection platform for automotive interiors, combining defect detection, classification and explainable quality decisions.
@@ -115,7 +115,7 @@ An AI-assisted leather quality inspection platform for automotive interiors, com
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 BrainTumorLab
+###  BrainTumorLab
 **Medical AI · 3D Deep Learning**
 
 An exploration of brain-tumor analysis from MRI, with 3D segmentation, classification and report generation.
@@ -129,7 +129,7 @@ An exploration of brain-tumor analysis from MRI, with 3D segmentation, classific
 </td>
 <td width="50%" valign="top">
 
-### 🚑 MediSphere
+###  MediSphere
 **Expert Systems · Explainability**
 
 A rule-based medical triage assistant that explains urgency decisions and identifies useful follow-up questions.
@@ -143,7 +143,7 @@ A rule-based medical triage assistant that explains urgency decisions and identi
 <tr>
 <td width="50%" valign="top">
 
-### 📡 NetScan Pro
+###  NetScan Pro
 **Networking · Monitoring**
 
 A network visibility tool for discovering devices and monitoring network infrastructure.
@@ -155,7 +155,7 @@ A network visibility tool for discovering devices and monitoring network infrast
 </td>
 <td width="50%" valign="top">
 
-### 📍 FindMe
+###  FindMe
 **Mobile · Geolocation · Smart Search**
 
 A mobile application for finding products in nearby stores, with geolocation, chatbot and administration features.
