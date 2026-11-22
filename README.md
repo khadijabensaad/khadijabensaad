@@ -7,6 +7,30 @@
 
 <br/>
 
+<!-- =============== PERSONAL HELLO =============== -->
+
+<p align="center">
+  <img
+    src="./assets/avatar-hii.png"
+    width="210"
+    alt="Khadija says hii!"
+  />
+</p>
+
+<p align="center">
+  <strong>
+    ✨ Hey there, welcome to my little corner of GitHub! ✨
+  </strong>
+</p>
+
+<p align="center">
+  <i>
+    A woman in tech, passionate about AI, creativity
+    and building things that matter.
+  </i>
+</p>
+
+
 <a href="https://github.com/khadijabensaad">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=19&duration=2800&pause=900&color=F27A9B&center=true&vCenter=true&width=760&height=42&lines=Hi%2C+I'm+Khadija+%E2%9C%A6;Welcome+to+my+corner+of+technology;Building+AI+with+purpose+%26+engineering+with+curiosity;She+builds.+She+questions.+She+ships." alt="Dynamic greeting" />
 </a>
